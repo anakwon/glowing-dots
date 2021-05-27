@@ -5,4 +5,4 @@
 - Making random movements of the dots 
 - Check it out!
 
-![Image of Inside Out](https://github.com/anakwon/animation-glowing-dots/blob/main/images/InsideOut.jpg) 
+![Image of Inside Out](https://github.com/anakwon/insideout.github.io/blob/main/images/InsideOut.jpg) 
